@@ -1,0 +1,2 @@
+# 2-bit-alu
+In this mini-project, I have attempted to design and realize a 2-bit computer whose ALU performs specific calculations and operations, namely: 1. Addition  2. Subtraction   3. Multiplication  4. Division  5. Comparison   In a nutshell, firstly, I thought of a particular logic for each operation and then by using our knowledge of the Karnaugh Maps, I realized all the combinational circuits,  using the basic gates (AND, OR, NOT).   
